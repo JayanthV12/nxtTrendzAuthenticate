@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.home-container {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.shop-button {
+  background-color: blue;
+  color: white;
+  border-radius: 12px;
+  border-width: 0px;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.header-container {
+  background-color: white;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+}
+.items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.logout-button {
+  background-color: blue;
+  color: white;
+  border-radius: 12px;
+  border-width: 0px;
+}
+.list-item {
+  list-style-type: none;
+  margin-right: 12px;
+  color: grey;
+}
